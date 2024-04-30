@@ -26,7 +26,7 @@ export default function Users() {
 
   const fetchUsers = async () => {
     try {
-      const response = await axios.get('http://localhost:5000/api/users/userinfo');
+      const response = await axios.get('https://userapi-backend.vercel.app/api/users/userinfo');
       const data = response.data;
       console.log("Fetched Users:", data);
       setUsers(data);
