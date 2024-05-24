@@ -11,11 +11,6 @@ The User Information Showcase is a React-based project designed to display detai
 
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/rohitportfolio-2464a.appspot.com/o/github2.png?alt=media&token=c198846b-cd95-4429-a16e-e23d91bd0aab)
 
-
-## PhoneView
-
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/rohitportfolio-2464a.appspot.com/o/github%203.jpeg?alt=media&token=82c56eff-a4cb-418f-aa19-20356ab74249)
-
 ## Features
 
 - **Responsive Design**: The layout adapts seamlessly to different screen sizes, ensuring a consistent experience across devices.
